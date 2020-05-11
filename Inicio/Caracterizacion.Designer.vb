@@ -23,257 +23,257 @@ Partial Class Caracterizacion
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Caracterizacion))
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.Label6 = New System.Windows.Forms.Label()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.Label8 = New System.Windows.Forms.Label()
-        Me.Label9 = New System.Windows.Forms.Label()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.Label12 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox6 = New System.Windows.Forms.TextBox()
-        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox2 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox3 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox4 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox5 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox6 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox7 = New System.Windows.Forms.ComboBox()
+        Me.Lbl17 = New System.Windows.Forms.Label()
+        Me.Lbl1 = New System.Windows.Forms.Label()
+        Me.Lbl2 = New System.Windows.Forms.Label()
+        Me.Lbl3 = New System.Windows.Forms.Label()
+        Me.Lbl4 = New System.Windows.Forms.Label()
+        Me.Lbl5 = New System.Windows.Forms.Label()
+        Me.Lbl6 = New System.Windows.Forms.Label()
+        Me.Lbl7 = New System.Windows.Forms.Label()
+        Me.Lbl8 = New System.Windows.Forms.Label()
+        Me.Lbl9 = New System.Windows.Forms.Label()
+        Me.Lbl10 = New System.Windows.Forms.Label()
+        Me.Lbl11 = New System.Windows.Forms.Label()
+        Me.Txbox1 = New System.Windows.Forms.TextBox()
+        Me.Txbox2 = New System.Windows.Forms.TextBox()
+        Me.Txbox3 = New System.Windows.Forms.TextBox()
+        Me.Txbox4 = New System.Windows.Forms.TextBox()
+        Me.CBox1 = New System.Windows.Forms.ComboBox()
+        Me.CBox2 = New System.Windows.Forms.ComboBox()
+        Me.CBox3 = New System.Windows.Forms.ComboBox()
+        Me.CBox4 = New System.Windows.Forms.ComboBox()
+        Me.CBox5 = New System.Windows.Forms.ComboBox()
+        Me.CBox6 = New System.Windows.Forms.ComboBox()
+        Me.CBox7 = New System.Windows.Forms.ComboBox()
         Me.PictureBox5 = New System.Windows.Forms.PictureBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        Me.Label13 = New System.Windows.Forms.Label()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
-        Me.Label14 = New System.Windows.Forms.Label()
-        Me.ComboBox8 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox9 = New System.Windows.Forms.ComboBox()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
-        Me.Label15 = New System.Windows.Forms.Label()
-        Me.Label16 = New System.Windows.Forms.Label()
-        Me.Label17 = New System.Windows.Forms.Label()
-        Me.TextBox7 = New System.Windows.Forms.TextBox()
-        Me.Button4 = New System.Windows.Forms.Button()
-        Me.Button3 = New System.Windows.Forms.Button()
+        Me.Lbl12 = New System.Windows.Forms.Label()
+        Me.Txbox5 = New System.Windows.Forms.TextBox()
+        Me.Lbl13 = New System.Windows.Forms.Label()
+        Me.CBox9 = New System.Windows.Forms.ComboBox()
+        Me.CBox8 = New System.Windows.Forms.ComboBox()
+        Me.Txbox7 = New System.Windows.Forms.TextBox()
+        Me.Lbl16 = New System.Windows.Forms.Label()
+        Me.Lbl15 = New System.Windows.Forms.Label()
+        Me.Lbl14 = New System.Windows.Forms.Label()
+        Me.Txbox6 = New System.Windows.Forms.TextBox()
+        Me.Btn2 = New System.Windows.Forms.Button()
+        Me.Btn1 = New System.Windows.Forms.Button()
         CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
-        'Label1
+        'Lbl17
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(476, 9)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(373, 55)
-        Me.Label1.TabIndex = 4
-        Me.Label1.Text = "Caracterización"
+        Me.Lbl17.AutoSize = True
+        Me.Lbl17.Font = New System.Drawing.Font("Microsoft Sans Serif", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl17.Location = New System.Drawing.Point(476, 9)
+        Me.Lbl17.Name = "Lbl17"
+        Me.Lbl17.Size = New System.Drawing.Size(373, 55)
+        Me.Lbl17.TabIndex = 4
+        Me.Lbl17.Text = "Caracterización"
         '
-        'Label2
+        'Lbl1
         '
-        Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(48, 203)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(219, 25)
-        Me.Label2.TabIndex = 5
-        Me.Label2.Text = "Numero Identificación"
+        Me.Lbl1.AutoSize = True
+        Me.Lbl1.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl1.Location = New System.Drawing.Point(48, 203)
+        Me.Lbl1.Name = "Lbl1"
+        Me.Lbl1.Size = New System.Drawing.Size(219, 25)
+        Me.Lbl1.TabIndex = 5
+        Me.Lbl1.Text = "Numero Identificación"
         '
-        'Label3
+        'Lbl2
         '
-        Me.Label3.AutoSize = True
-        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(48, 253)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(98, 25)
-        Me.Label3.TabIndex = 6
-        Me.Label3.Text = "Nombres"
+        Me.Lbl2.AutoSize = True
+        Me.Lbl2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl2.Location = New System.Drawing.Point(48, 253)
+        Me.Lbl2.Name = "Lbl2"
+        Me.Lbl2.Size = New System.Drawing.Size(98, 25)
+        Me.Lbl2.TabIndex = 6
+        Me.Lbl2.Text = "Nombres"
         '
-        'Label4
+        'Lbl3
         '
-        Me.Label4.AutoSize = True
-        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(48, 303)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(100, 25)
-        Me.Label4.TabIndex = 7
-        Me.Label4.Text = "Apellidos"
+        Me.Lbl3.AutoSize = True
+        Me.Lbl3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl3.Location = New System.Drawing.Point(48, 303)
+        Me.Lbl3.Name = "Lbl3"
+        Me.Lbl3.Size = New System.Drawing.Size(100, 25)
+        Me.Lbl3.TabIndex = 7
+        Me.Lbl3.Text = "Apellidos"
         '
-        'Label5
+        'Lbl4
         '
-        Me.Label5.AutoSize = True
-        Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(48, 353)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(147, 25)
-        Me.Label5.TabIndex = 8
-        Me.Label5.Text = "Departamento"
+        Me.Lbl4.AutoSize = True
+        Me.Lbl4.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl4.Location = New System.Drawing.Point(48, 353)
+        Me.Lbl4.Name = "Lbl4"
+        Me.Lbl4.Size = New System.Drawing.Size(147, 25)
+        Me.Lbl4.TabIndex = 8
+        Me.Lbl4.Text = "Departamento"
         '
-        'Label6
+        'Lbl5
         '
-        Me.Label6.AutoSize = True
-        Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(48, 403)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(196, 25)
-        Me.Label6.TabIndex = 9
-        Me.Label6.Text = "Ciudad o Municipio"
+        Me.Lbl5.AutoSize = True
+        Me.Lbl5.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl5.Location = New System.Drawing.Point(48, 403)
+        Me.Lbl5.Name = "Lbl5"
+        Me.Lbl5.Size = New System.Drawing.Size(196, 25)
+        Me.Lbl5.TabIndex = 9
+        Me.Lbl5.Text = "Ciudad o Municipio"
         '
-        'Label7
+        'Lbl6
         '
-        Me.Label7.AutoSize = True
-        Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(48, 453)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(96, 25)
-        Me.Label7.TabIndex = 10
-        Me.Label7.Text = "Telefono"
+        Me.Lbl6.AutoSize = True
+        Me.Lbl6.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl6.Location = New System.Drawing.Point(48, 453)
+        Me.Lbl6.Name = "Lbl6"
+        Me.Lbl6.Size = New System.Drawing.Size(96, 25)
+        Me.Lbl6.TabIndex = 10
+        Me.Lbl6.Text = "Telefono"
         '
-        'Label8
+        'Lbl7
         '
-        Me.Label8.AutoSize = True
-        Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(48, 503)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(83, 25)
-        Me.Label8.TabIndex = 11
-        Me.Label8.Text = "Genero"
+        Me.Lbl7.AutoSize = True
+        Me.Lbl7.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl7.Location = New System.Drawing.Point(48, 503)
+        Me.Lbl7.Name = "Lbl7"
+        Me.Lbl7.Size = New System.Drawing.Size(83, 25)
+        Me.Lbl7.TabIndex = 11
+        Me.Lbl7.Text = "Genero"
         '
-        'Label9
+        'Lbl8
         '
-        Me.Label9.AutoSize = True
-        Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(48, 553)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(62, 25)
-        Me.Label9.TabIndex = 12
-        Me.Label9.Text = "Edad"
+        Me.Lbl8.AutoSize = True
+        Me.Lbl8.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl8.Location = New System.Drawing.Point(48, 553)
+        Me.Lbl8.Name = "Lbl8"
+        Me.Lbl8.Size = New System.Drawing.Size(62, 25)
+        Me.Lbl8.TabIndex = 12
+        Me.Lbl8.Text = "Edad"
         '
-        'Label10
+        'Lbl9
         '
-        Me.Label10.AutoSize = True
-        Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.Location = New System.Drawing.Point(48, 603)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(126, 25)
-        Me.Label10.TabIndex = 13
-        Me.Label10.Text = "Estado Civíl"
+        Me.Lbl9.AutoSize = True
+        Me.Lbl9.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl9.Location = New System.Drawing.Point(48, 603)
+        Me.Lbl9.Name = "Lbl9"
+        Me.Lbl9.Size = New System.Drawing.Size(126, 25)
+        Me.Lbl9.TabIndex = 13
+        Me.Lbl9.Text = "Estado Civíl"
         '
-        'Label11
+        'Lbl10
         '
-        Me.Label11.AutoSize = True
-        Me.Label11.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label11.Location = New System.Drawing.Point(48, 653)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(286, 25)
-        Me.Label11.TabIndex = 14
-        Me.Label11.Text = "No Miembros Grupo Familiar"
+        Me.Lbl10.AutoSize = True
+        Me.Lbl10.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl10.Location = New System.Drawing.Point(48, 653)
+        Me.Lbl10.Name = "Lbl10"
+        Me.Lbl10.Size = New System.Drawing.Size(286, 25)
+        Me.Lbl10.TabIndex = 14
+        Me.Lbl10.Text = "No Miembros Grupo Familiar"
         '
-        'Label12
+        'Lbl11
         '
-        Me.Label12.AutoSize = True
-        Me.Label12.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label12.Location = New System.Drawing.Point(48, 703)
-        Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(295, 25)
-        Me.Label12.TabIndex = 15
-        Me.Label12.Text = "Nivel Ingresos Grupo Familiar"
+        Me.Lbl11.AutoSize = True
+        Me.Lbl11.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl11.Location = New System.Drawing.Point(48, 703)
+        Me.Lbl11.Name = "Lbl11"
+        Me.Lbl11.Size = New System.Drawing.Size(295, 25)
+        Me.Lbl11.TabIndex = 15
+        Me.Lbl11.Text = "Nivel Ingresos Grupo Familiar"
         '
-        'TextBox1
+        'Txbox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(349, 208)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(290, 20)
-        Me.TextBox1.TabIndex = 16
+        Me.Txbox1.Location = New System.Drawing.Point(349, 208)
+        Me.Txbox1.Name = "Txbox1"
+        Me.Txbox1.Size = New System.Drawing.Size(290, 20)
+        Me.Txbox1.TabIndex = 16
         '
-        'TextBox2
+        'Txbox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(349, 258)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(290, 20)
-        Me.TextBox2.TabIndex = 17
+        Me.Txbox2.Location = New System.Drawing.Point(349, 258)
+        Me.Txbox2.Name = "Txbox2"
+        Me.Txbox2.Size = New System.Drawing.Size(290, 20)
+        Me.Txbox2.TabIndex = 17
         '
-        'TextBox3
+        'Txbox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(349, 308)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(290, 20)
-        Me.TextBox3.TabIndex = 18
+        Me.Txbox3.Location = New System.Drawing.Point(349, 308)
+        Me.Txbox3.Name = "Txbox3"
+        Me.Txbox3.Size = New System.Drawing.Size(290, 20)
+        Me.Txbox3.TabIndex = 18
         '
-        'TextBox6
+        'Txbox4
         '
-        Me.TextBox6.Location = New System.Drawing.Point(349, 458)
-        Me.TextBox6.Name = "TextBox6"
-        Me.TextBox6.Size = New System.Drawing.Size(290, 20)
-        Me.TextBox6.TabIndex = 21
+        Me.Txbox4.Location = New System.Drawing.Point(349, 458)
+        Me.Txbox4.Name = "Txbox4"
+        Me.Txbox4.Size = New System.Drawing.Size(290, 20)
+        Me.Txbox4.TabIndex = 21
         '
-        'ComboBox1
+        'CBox1
         '
-        Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"Amazonas", "Antioquia", "Arauca", "Atlantico", "Bogotá", "Bolivar", "Boyacá"})
-        Me.ComboBox1.Location = New System.Drawing.Point(349, 359)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(290, 21)
-        Me.ComboBox1.TabIndex = 27
+        Me.CBox1.FormattingEnabled = True
+        Me.CBox1.Items.AddRange(New Object() {"Amazonas", "Antioquia", "Arauca", "Atlantico", "Bogotá", "Bolivar", "Boyacá"})
+        Me.CBox1.Location = New System.Drawing.Point(349, 359)
+        Me.CBox1.Name = "CBox1"
+        Me.CBox1.Size = New System.Drawing.Size(290, 21)
+        Me.CBox1.TabIndex = 27
         '
-        'ComboBox2
+        'CBox2
         '
-        Me.ComboBox2.FormattingEnabled = True
-        Me.ComboBox2.Items.AddRange(New Object() {"ABEJORRAL", "ABREGO", "ABRIAQUÍ", "ACACÍAS", "ACANDÍ", "ACEVEDO", "ACHÍ"})
-        Me.ComboBox2.Location = New System.Drawing.Point(349, 403)
-        Me.ComboBox2.Name = "ComboBox2"
-        Me.ComboBox2.Size = New System.Drawing.Size(290, 21)
-        Me.ComboBox2.TabIndex = 28
+        Me.CBox2.FormattingEnabled = True
+        Me.CBox2.Items.AddRange(New Object() {"ABEJORRAL", "ABREGO", "ABRIAQUÍ", "ACACÍAS", "ACANDÍ", "ACEVEDO", "ACHÍ"})
+        Me.CBox2.Location = New System.Drawing.Point(349, 403)
+        Me.CBox2.Name = "CBox2"
+        Me.CBox2.Size = New System.Drawing.Size(290, 21)
+        Me.CBox2.TabIndex = 28
         '
-        'ComboBox3
+        'CBox3
         '
-        Me.ComboBox3.FormattingEnabled = True
-        Me.ComboBox3.Items.AddRange(New Object() {"Masculino", "Femenino"})
-        Me.ComboBox3.Location = New System.Drawing.Point(349, 509)
-        Me.ComboBox3.Name = "ComboBox3"
-        Me.ComboBox3.Size = New System.Drawing.Size(290, 21)
-        Me.ComboBox3.TabIndex = 29
+        Me.CBox3.FormattingEnabled = True
+        Me.CBox3.Items.AddRange(New Object() {"Masculino", "Femenino"})
+        Me.CBox3.Location = New System.Drawing.Point(349, 509)
+        Me.CBox3.Name = "CBox3"
+        Me.CBox3.Size = New System.Drawing.Size(290, 21)
+        Me.CBox3.TabIndex = 29
         '
-        'ComboBox4
+        'CBox4
         '
-        Me.ComboBox4.FormattingEnabled = True
-        Me.ComboBox4.Items.AddRange(New Object() {"Menor de 18", "18 - 24", "25 - 34", "35 - 44", "45 - 54", "55 - 64", "Mayor de 64"})
-        Me.ComboBox4.Location = New System.Drawing.Point(349, 559)
-        Me.ComboBox4.Name = "ComboBox4"
-        Me.ComboBox4.Size = New System.Drawing.Size(290, 21)
-        Me.ComboBox4.TabIndex = 30
+        Me.CBox4.FormattingEnabled = True
+        Me.CBox4.Items.AddRange(New Object() {"Menor de 18", "18 - 24", "25 - 34", "35 - 44", "45 - 54", "55 - 64", "Mayor de 64"})
+        Me.CBox4.Location = New System.Drawing.Point(349, 559)
+        Me.CBox4.Name = "CBox4"
+        Me.CBox4.Size = New System.Drawing.Size(290, 21)
+        Me.CBox4.TabIndex = 30
         '
-        'ComboBox5
+        'CBox5
         '
-        Me.ComboBox5.FormattingEnabled = True
-        Me.ComboBox5.Items.AddRange(New Object() {"Soltero", "Separado", "Casado", "Viudo", "Union Libre"})
-        Me.ComboBox5.Location = New System.Drawing.Point(349, 603)
-        Me.ComboBox5.Name = "ComboBox5"
-        Me.ComboBox5.Size = New System.Drawing.Size(290, 21)
-        Me.ComboBox5.TabIndex = 31
+        Me.CBox5.FormattingEnabled = True
+        Me.CBox5.Items.AddRange(New Object() {"Soltero", "Separado", "Casado", "Viudo", "Union Libre"})
+        Me.CBox5.Location = New System.Drawing.Point(349, 603)
+        Me.CBox5.Name = "CBox5"
+        Me.CBox5.Size = New System.Drawing.Size(290, 21)
+        Me.CBox5.TabIndex = 31
         '
-        'ComboBox6
+        'CBox6
         '
-        Me.ComboBox6.FormattingEnabled = True
-        Me.ComboBox6.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "mas de 10"})
-        Me.ComboBox6.Location = New System.Drawing.Point(349, 653)
-        Me.ComboBox6.Name = "ComboBox6"
-        Me.ComboBox6.Size = New System.Drawing.Size(290, 21)
-        Me.ComboBox6.TabIndex = 32
+        Me.CBox6.FormattingEnabled = True
+        Me.CBox6.Items.AddRange(New Object() {"1", "2", "3", "4", "5", "6", "7", "8", "9", "mas de 10"})
+        Me.CBox6.Location = New System.Drawing.Point(349, 653)
+        Me.CBox6.Name = "CBox6"
+        Me.CBox6.Size = New System.Drawing.Size(290, 21)
+        Me.CBox6.TabIndex = 32
         '
-        'ComboBox7
+        'CBox7
         '
-        Me.ComboBox7.FormattingEnabled = True
-        Me.ComboBox7.Items.AddRange(New Object() {"Menos de 1 SMMLV", "Entre 1 y 2 SMMLV", "Entre 2 y 3 SMMLV", "Entre 3 y 4 SMMLV", "Entre 4 y 5 SMMLV", "Entre 5 y 6 SMMLV", "Entre 6 y 7 SMMLV", "Mas de 7 SMMLV"})
-        Me.ComboBox7.Location = New System.Drawing.Point(349, 703)
-        Me.ComboBox7.Name = "ComboBox7"
-        Me.ComboBox7.Size = New System.Drawing.Size(290, 21)
-        Me.ComboBox7.TabIndex = 33
+        Me.CBox7.FormattingEnabled = True
+        Me.CBox7.Items.AddRange(New Object() {"Menos de 1 SMMLV", "Entre 1 y 2 SMMLV", "Entre 2 y 3 SMMLV", "Entre 3 y 4 SMMLV", "Entre 4 y 5 SMMLV", "Entre 5 y 6 SMMLV", "Entre 6 y 7 SMMLV", "Mas de 7 SMMLV"})
+        Me.CBox7.Location = New System.Drawing.Point(349, 703)
+        Me.CBox7.Name = "CBox7"
+        Me.CBox7.Size = New System.Drawing.Size(290, 21)
+        Me.CBox7.TabIndex = 33
         '
         'PictureBox5
         '
@@ -295,112 +295,112 @@ Partial Class Caracterizacion
         Me.PictureBox1.TabIndex = 35
         Me.PictureBox1.TabStop = False
         '
-        'Label13
+        'Lbl12
         '
-        Me.Label13.AutoSize = True
-        Me.Label13.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label13.Location = New System.Drawing.Point(674, 207)
-        Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(282, 25)
-        Me.Label13.TabIndex = 36
-        Me.Label13.Text = "Identificación de la Empresa"
+        Me.Lbl12.AutoSize = True
+        Me.Lbl12.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl12.Location = New System.Drawing.Point(674, 207)
+        Me.Lbl12.Name = "Lbl12"
+        Me.Lbl12.Size = New System.Drawing.Size(282, 25)
+        Me.Lbl12.TabIndex = 36
+        Me.Lbl12.Text = "Identificación de la Empresa"
         '
-        'TextBox4
+        'Txbox5
         '
-        Me.TextBox4.Location = New System.Drawing.Point(962, 213)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(290, 20)
-        Me.TextBox4.TabIndex = 37
+        Me.Txbox5.Location = New System.Drawing.Point(962, 213)
+        Me.Txbox5.Name = "Txbox5"
+        Me.Txbox5.Size = New System.Drawing.Size(290, 20)
+        Me.Txbox5.TabIndex = 37
         '
-        'Label14
+        'Lbl13
         '
-        Me.Label14.AutoSize = True
-        Me.Label14.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label14.Location = New System.Drawing.Point(674, 252)
-        Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(229, 25)
-        Me.Label14.TabIndex = 38
-        Me.Label14.Text = "Nombre de la empresa"
+        Me.Lbl13.AutoSize = True
+        Me.Lbl13.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl13.Location = New System.Drawing.Point(674, 252)
+        Me.Lbl13.Name = "Lbl13"
+        Me.Lbl13.Size = New System.Drawing.Size(229, 25)
+        Me.Lbl13.TabIndex = 38
+        Me.Lbl13.Text = "Nombre de la empresa"
         '
-        'ComboBox8
+        'CBox9
         '
-        Me.ComboBox8.FormattingEnabled = True
-        Me.ComboBox8.Items.AddRange(New Object() {"ABEJORRAL", "ABREGO", "ABRIAQUÍ", "ACACÍAS", "ACANDÍ", "ACEVEDO", "ACHÍ"})
-        Me.ComboBox8.Location = New System.Drawing.Point(962, 337)
-        Me.ComboBox8.Name = "ComboBox8"
-        Me.ComboBox8.Size = New System.Drawing.Size(290, 21)
-        Me.ComboBox8.TabIndex = 44
+        Me.CBox9.FormattingEnabled = True
+        Me.CBox9.Items.AddRange(New Object() {"ABEJORRAL", "ABREGO", "ABRIAQUÍ", "ACACÍAS", "ACANDÍ", "ACEVEDO", "ACHÍ"})
+        Me.CBox9.Location = New System.Drawing.Point(962, 337)
+        Me.CBox9.Name = "CBox9"
+        Me.CBox9.Size = New System.Drawing.Size(290, 21)
+        Me.CBox9.TabIndex = 44
         '
-        'ComboBox9
+        'CBox8
         '
-        Me.ComboBox9.FormattingEnabled = True
-        Me.ComboBox9.Items.AddRange(New Object() {"Amazonas", "Antioquia", "Arauca", "Atlantico", "Bogotá", "Bolivar", "Boyacá"})
-        Me.ComboBox9.Location = New System.Drawing.Point(962, 293)
-        Me.ComboBox9.Name = "ComboBox9"
-        Me.ComboBox9.Size = New System.Drawing.Size(290, 21)
-        Me.ComboBox9.TabIndex = 43
+        Me.CBox8.FormattingEnabled = True
+        Me.CBox8.Items.AddRange(New Object() {"Amazonas", "Antioquia", "Arauca", "Atlantico", "Bogotá", "Bolivar", "Boyacá"})
+        Me.CBox8.Location = New System.Drawing.Point(962, 293)
+        Me.CBox8.Name = "CBox8"
+        Me.CBox8.Size = New System.Drawing.Size(290, 21)
+        Me.CBox8.TabIndex = 43
         '
-        'TextBox5
+        'Txbox7
         '
-        Me.TextBox5.Location = New System.Drawing.Point(962, 393)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(290, 20)
-        Me.TextBox5.TabIndex = 42
+        Me.Txbox7.Location = New System.Drawing.Point(962, 393)
+        Me.Txbox7.Name = "Txbox7"
+        Me.Txbox7.Size = New System.Drawing.Size(290, 20)
+        Me.Txbox7.TabIndex = 42
         '
-        'Label15
+        'Lbl16
         '
-        Me.Label15.AutoSize = True
-        Me.Label15.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label15.Location = New System.Drawing.Point(675, 387)
-        Me.Label15.Name = "Label15"
-        Me.Label15.Size = New System.Drawing.Size(96, 25)
-        Me.Label15.TabIndex = 41
-        Me.Label15.Text = "Telefono"
+        Me.Lbl16.AutoSize = True
+        Me.Lbl16.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl16.Location = New System.Drawing.Point(675, 387)
+        Me.Lbl16.Name = "Lbl16"
+        Me.Lbl16.Size = New System.Drawing.Size(96, 25)
+        Me.Lbl16.TabIndex = 41
+        Me.Lbl16.Text = "Telefono"
         '
-        'Label16
+        'Lbl15
         '
-        Me.Label16.AutoSize = True
-        Me.Label16.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label16.Location = New System.Drawing.Point(675, 337)
-        Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(196, 25)
-        Me.Label16.TabIndex = 40
-        Me.Label16.Text = "Ciudad o Municipio"
+        Me.Lbl15.AutoSize = True
+        Me.Lbl15.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl15.Location = New System.Drawing.Point(675, 337)
+        Me.Lbl15.Name = "Lbl15"
+        Me.Lbl15.Size = New System.Drawing.Size(196, 25)
+        Me.Lbl15.TabIndex = 40
+        Me.Lbl15.Text = "Ciudad o Municipio"
         '
-        'Label17
+        'Lbl14
         '
-        Me.Label17.AutoSize = True
-        Me.Label17.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label17.Location = New System.Drawing.Point(675, 287)
-        Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(147, 25)
-        Me.Label17.TabIndex = 39
-        Me.Label17.Text = "Departamento"
+        Me.Lbl14.AutoSize = True
+        Me.Lbl14.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl14.Location = New System.Drawing.Point(675, 287)
+        Me.Lbl14.Name = "Lbl14"
+        Me.Lbl14.Size = New System.Drawing.Size(147, 25)
+        Me.Lbl14.TabIndex = 39
+        Me.Lbl14.Text = "Departamento"
         '
-        'TextBox7
+        'Txbox6
         '
-        Me.TextBox7.Location = New System.Drawing.Point(962, 253)
-        Me.TextBox7.Name = "TextBox7"
-        Me.TextBox7.Size = New System.Drawing.Size(290, 20)
-        Me.TextBox7.TabIndex = 45
+        Me.Txbox6.Location = New System.Drawing.Point(962, 253)
+        Me.Txbox6.Name = "Txbox6"
+        Me.Txbox6.Size = New System.Drawing.Size(290, 20)
+        Me.Txbox6.TabIndex = 45
         '
-        'Button4
+        'Btn2
         '
-        Me.Button4.Location = New System.Drawing.Point(1177, 933)
-        Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(75, 40)
-        Me.Button4.TabIndex = 47
-        Me.Button4.Text = "Salir"
-        Me.Button4.UseVisualStyleBackColor = True
+        Me.Btn2.Location = New System.Drawing.Point(1177, 933)
+        Me.Btn2.Name = "Btn2"
+        Me.Btn2.Size = New System.Drawing.Size(75, 40)
+        Me.Btn2.TabIndex = 47
+        Me.Btn2.Text = "Salir"
+        Me.Btn2.UseVisualStyleBackColor = True
         '
-        'Button3
+        'Btn1
         '
-        Me.Button3.Location = New System.Drawing.Point(12, 933)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(75, 40)
-        Me.Button3.TabIndex = 46
-        Me.Button3.Text = "Regresar"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.Btn1.Location = New System.Drawing.Point(12, 933)
+        Me.Btn1.Name = "Btn1"
+        Me.Btn1.Size = New System.Drawing.Size(75, 40)
+        Me.Btn1.TabIndex = 46
+        Me.Btn1.Text = "Regresar"
+        Me.Btn1.UseVisualStyleBackColor = True
         '
         'Caracterizacion
         '
@@ -408,43 +408,43 @@ Partial Class Caracterizacion
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(1264, 985)
-        Me.Controls.Add(Me.Button4)
-        Me.Controls.Add(Me.Button3)
-        Me.Controls.Add(Me.TextBox7)
-        Me.Controls.Add(Me.ComboBox8)
-        Me.Controls.Add(Me.ComboBox9)
-        Me.Controls.Add(Me.TextBox5)
-        Me.Controls.Add(Me.Label15)
-        Me.Controls.Add(Me.Label16)
-        Me.Controls.Add(Me.Label17)
-        Me.Controls.Add(Me.Label14)
-        Me.Controls.Add(Me.TextBox4)
-        Me.Controls.Add(Me.Label13)
+        Me.Controls.Add(Me.Btn2)
+        Me.Controls.Add(Me.Btn1)
+        Me.Controls.Add(Me.Txbox6)
+        Me.Controls.Add(Me.CBox9)
+        Me.Controls.Add(Me.CBox8)
+        Me.Controls.Add(Me.Txbox7)
+        Me.Controls.Add(Me.Lbl16)
+        Me.Controls.Add(Me.Lbl15)
+        Me.Controls.Add(Me.Lbl14)
+        Me.Controls.Add(Me.Lbl13)
+        Me.Controls.Add(Me.Txbox5)
+        Me.Controls.Add(Me.Lbl12)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.PictureBox5)
-        Me.Controls.Add(Me.ComboBox7)
-        Me.Controls.Add(Me.ComboBox6)
-        Me.Controls.Add(Me.ComboBox5)
-        Me.Controls.Add(Me.ComboBox4)
-        Me.Controls.Add(Me.ComboBox3)
-        Me.Controls.Add(Me.ComboBox2)
-        Me.Controls.Add(Me.ComboBox1)
-        Me.Controls.Add(Me.TextBox6)
-        Me.Controls.Add(Me.TextBox3)
-        Me.Controls.Add(Me.TextBox2)
-        Me.Controls.Add(Me.TextBox1)
-        Me.Controls.Add(Me.Label12)
-        Me.Controls.Add(Me.Label11)
-        Me.Controls.Add(Me.Label10)
-        Me.Controls.Add(Me.Label9)
-        Me.Controls.Add(Me.Label8)
-        Me.Controls.Add(Me.Label7)
-        Me.Controls.Add(Me.Label6)
-        Me.Controls.Add(Me.Label5)
-        Me.Controls.Add(Me.Label4)
-        Me.Controls.Add(Me.Label3)
-        Me.Controls.Add(Me.Label2)
-        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.CBox7)
+        Me.Controls.Add(Me.CBox6)
+        Me.Controls.Add(Me.CBox5)
+        Me.Controls.Add(Me.CBox4)
+        Me.Controls.Add(Me.CBox3)
+        Me.Controls.Add(Me.CBox2)
+        Me.Controls.Add(Me.CBox1)
+        Me.Controls.Add(Me.Txbox4)
+        Me.Controls.Add(Me.Txbox3)
+        Me.Controls.Add(Me.Txbox2)
+        Me.Controls.Add(Me.Txbox1)
+        Me.Controls.Add(Me.Lbl11)
+        Me.Controls.Add(Me.Lbl10)
+        Me.Controls.Add(Me.Lbl9)
+        Me.Controls.Add(Me.Lbl8)
+        Me.Controls.Add(Me.Lbl7)
+        Me.Controls.Add(Me.Lbl6)
+        Me.Controls.Add(Me.Lbl5)
+        Me.Controls.Add(Me.Lbl4)
+        Me.Controls.Add(Me.Lbl3)
+        Me.Controls.Add(Me.Lbl2)
+        Me.Controls.Add(Me.Lbl1)
+        Me.Controls.Add(Me.Lbl17)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Caracterizacion"
         Me.Text = "Caracterizacion"
@@ -455,41 +455,41 @@ Partial Class Caracterizacion
 
     End Sub
 
-    Friend WithEvents Label1 As Label
-    Friend WithEvents Label2 As Label
-    Friend WithEvents Label3 As Label
-    Friend WithEvents Label4 As Label
-    Friend WithEvents Label5 As Label
-    Friend WithEvents Label6 As Label
-    Friend WithEvents Label7 As Label
-    Friend WithEvents Label8 As Label
-    Friend WithEvents Label9 As Label
-    Friend WithEvents Label10 As Label
-    Friend WithEvents Label11 As Label
-    Friend WithEvents Label12 As Label
-    Friend WithEvents TextBox1 As TextBox
-    Friend WithEvents TextBox2 As TextBox
-    Friend WithEvents TextBox3 As TextBox
-    Friend WithEvents TextBox6 As TextBox
-    Friend WithEvents ComboBox1 As ComboBox
-    Friend WithEvents ComboBox2 As ComboBox
-    Friend WithEvents ComboBox3 As ComboBox
-    Friend WithEvents ComboBox4 As ComboBox
-    Friend WithEvents ComboBox5 As ComboBox
-    Friend WithEvents ComboBox6 As ComboBox
-    Friend WithEvents ComboBox7 As ComboBox
+    Friend WithEvents Lbl17 As Label
+    Friend WithEvents Lbl1 As Label
+    Friend WithEvents Lbl2 As Label
+    Friend WithEvents Lbl3 As Label
+    Friend WithEvents Lbl4 As Label
+    Friend WithEvents Lbl5 As Label
+    Friend WithEvents Lbl6 As Label
+    Friend WithEvents Lbl7 As Label
+    Friend WithEvents Lbl8 As Label
+    Friend WithEvents Lbl9 As Label
+    Friend WithEvents Lbl10 As Label
+    Friend WithEvents Lbl11 As Label
+    Friend WithEvents Txbox1 As TextBox
+    Friend WithEvents Txbox2 As TextBox
+    Friend WithEvents Txbox3 As TextBox
+    Friend WithEvents Txbox4 As TextBox
+    Friend WithEvents CBox1 As ComboBox
+    Friend WithEvents CBox2 As ComboBox
+    Friend WithEvents CBox3 As ComboBox
+    Friend WithEvents CBox4 As ComboBox
+    Friend WithEvents CBox5 As ComboBox
+    Friend WithEvents CBox6 As ComboBox
+    Friend WithEvents CBox7 As ComboBox
     Friend WithEvents PictureBox5 As PictureBox
     Friend WithEvents PictureBox1 As PictureBox
-    Friend WithEvents Label13 As Label
-    Friend WithEvents TextBox4 As TextBox
-    Friend WithEvents Label14 As Label
-    Friend WithEvents ComboBox8 As ComboBox
-    Friend WithEvents ComboBox9 As ComboBox
-    Friend WithEvents TextBox5 As TextBox
-    Friend WithEvents Label15 As Label
-    Friend WithEvents Label16 As Label
-    Friend WithEvents Label17 As Label
-    Friend WithEvents TextBox7 As TextBox
-    Friend WithEvents Button4 As Button
-    Friend WithEvents Button3 As Button
+    Friend WithEvents Lbl12 As Label
+    Friend WithEvents Txbox5 As TextBox
+    Friend WithEvents Lbl13 As Label
+    Friend WithEvents CBox9 As ComboBox
+    Friend WithEvents CBox8 As ComboBox
+    Friend WithEvents Txbox7 As TextBox
+    Friend WithEvents Lbl16 As Label
+    Friend WithEvents Lbl15 As Label
+    Friend WithEvents Lbl14 As Label
+    Friend WithEvents Txbox6 As TextBox
+    Friend WithEvents Btn2 As Button
+    Friend WithEvents Btn1 As Button
 End Class

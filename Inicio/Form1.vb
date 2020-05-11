@@ -1,31 +1,31 @@
 ﻿Public Class Form1
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+    Private Sub Btn1_Click(sender As Object, e As EventArgs) Handles Btn1.Click
         Caracterizacion.Show()
-        Caracterizacion.Label13.Visible = False
-        Caracterizacion.Label14.Visible = False
-        Caracterizacion.Label15.Visible = False
-        Caracterizacion.Label16.Visible = False
-        Caracterizacion.Label17.Visible = False
-        Caracterizacion.TextBox4.Visible = False
-        Caracterizacion.TextBox7.Visible = False
-        Caracterizacion.TextBox5.Visible = False
-        Caracterizacion.ComboBox8.Visible = False
-        Caracterizacion.ComboBox9.Visible = False
+        Caracterizacion.Lbl12.Visible = False
+        Caracterizacion.Lbl13.Visible = False
+        Caracterizacion.Lbl14.Visible = False
+        Caracterizacion.Lbl15.Visible = False
+        Caracterizacion.Lbl16.Visible = False
+        Caracterizacion.Txbox5.Visible = False
+        Caracterizacion.Txbox6.Visible = False
+        Caracterizacion.Txbox7.Visible = False
+        Caracterizacion.CBox8.Visible = False
+        Caracterizacion.CBox9.Visible = False
         Me.Hide()
 
     End Sub
 
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+    Private Sub Btn2_Click(sender As Object, e As EventArgs) Handles Btn2.Click
         Caracterizacion.Show()
         Me.Hide()
 
     End Sub
 
-    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+    Private Sub Btn4_Click(sender As Object, e As EventArgs) Handles Btn4.Click
         Me.Close()
     End Sub
 
-    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+    Private Sub Btn3_Click(sender As Object, e As EventArgs) Handles Btn3.Click
 
     End Sub
 End Class
