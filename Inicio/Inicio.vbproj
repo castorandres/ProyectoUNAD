@@ -79,6 +79,24 @@
     <Compile Include="Caracterizacion.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Caracterizacion2.Designer.vb">
+      <DependentUpon>Caracterizacion2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Caracterizacion2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caracterizacion3.Designer.vb">
+      <DependentUpon>Caracterizacion3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Caracterizacion3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datospersonales.Designer.vb">
+      <DependentUpon>Datospersonales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Datospersonales.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -101,10 +119,73 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Ruta0.Designer.vb">
+      <DependentUpon>Ruta0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ruta0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ruta1.Designer.vb">
+      <DependentUpon>Ruta1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ruta1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ruta2.Designer.vb">
+      <DependentUpon>Ruta2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ruta2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ruta3.Designer.vb">
+      <DependentUpon>Ruta3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ruta3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ruta4.Designer.vb">
+      <DependentUpon>Ruta4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ruta4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tuberia1.Designer.vb">
+      <DependentUpon>Tuberia1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tuberia1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tuberia2.Designer.vb">
+      <DependentUpon>Tuberia2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tuberia2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tuberia3.Designer.vb">
+      <DependentUpon>Tuberia3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tuberia3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tuberia4.Designer.vb">
+      <DependentUpon>Tuberia4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tuberia4.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Caracterizacion.resx">
       <DependentUpon>Caracterizacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caracterizacion2.resx">
+      <DependentUpon>Caracterizacion2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caracterizacion3.resx">
+      <DependentUpon>Caracterizacion3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Datospersonales.resx">
+      <DependentUpon>Datospersonales.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
@@ -114,6 +195,33 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ruta0.resx">
+      <DependentUpon>Ruta0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ruta1.resx">
+      <DependentUpon>Ruta1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ruta2.resx">
+      <DependentUpon>Ruta2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ruta3.resx">
+      <DependentUpon>Ruta3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ruta4.resx">
+      <DependentUpon>Ruta4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tuberia1.resx">
+      <DependentUpon>Tuberia1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tuberia2.resx">
+      <DependentUpon>Tuberia2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tuberia3.resx">
+      <DependentUpon>Tuberia3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tuberia4.resx">
+      <DependentUpon>Tuberia4.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

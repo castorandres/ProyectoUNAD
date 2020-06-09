@@ -28,9 +28,7 @@ Partial Class Form1
         Me.AxWindowsMediaPlayer1 = New AxWMPLib.AxWindowsMediaPlayer()
         Me.Lbl1 = New System.Windows.Forms.Label()
         Me.Lbl2 = New System.Windows.Forms.Label()
-        Me.Lbl3 = New System.Windows.Forms.Label()
         Me.Btn1 = New System.Windows.Forms.Button()
-        Me.Btn2 = New System.Windows.Forms.Button()
         Me.PictureBox3 = New System.Windows.Forms.PictureBox()
         Me.PictureBox4 = New System.Windows.Forms.PictureBox()
         Me.PictureBox5 = New System.Windows.Forms.PictureBox()
@@ -59,7 +57,7 @@ Partial Class Form1
         Me.PictureBox2.Image = CType(resources.GetObject("PictureBox2.Image"), System.Drawing.Image)
         Me.PictureBox2.Location = New System.Drawing.Point(12, 239)
         Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(564, 402)
+        Me.PictureBox2.Size = New System.Drawing.Size(603, 402)
         Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox2.TabIndex = 1
         Me.PictureBox2.TabStop = False
@@ -67,7 +65,7 @@ Partial Class Form1
         'AxWindowsMediaPlayer1
         '
         Me.AxWindowsMediaPlayer1.Enabled = True
-        Me.AxWindowsMediaPlayer1.Location = New System.Drawing.Point(606, 239)
+        Me.AxWindowsMediaPlayer1.Location = New System.Drawing.Point(631, 239)
         Me.AxWindowsMediaPlayer1.Name = "AxWindowsMediaPlayer1"
         Me.AxWindowsMediaPlayer1.OcxState = CType(resources.GetObject("AxWindowsMediaPlayer1.OcxState"), System.Windows.Forms.AxHost.State)
         Me.AxWindowsMediaPlayer1.Size = New System.Drawing.Size(625, 402)
@@ -87,44 +85,25 @@ Partial Class Form1
         '
         Me.Lbl2.AutoSize = True
         Me.Lbl2.Font = New System.Drawing.Font("Microsoft Sans Serif", 26.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Lbl2.Location = New System.Drawing.Point(161, 651)
+        Me.Lbl2.Location = New System.Drawing.Point(279, 651)
         Me.Lbl2.Name = "Lbl2"
-        Me.Lbl2.Size = New System.Drawing.Size(277, 39)
+        Me.Lbl2.Size = New System.Drawing.Size(774, 39)
         Me.Lbl2.TabIndex = 4
-        Me.Lbl2.Text = "Tines una Idea?"
-        '
-        'Lbl3
-        '
-        Me.Lbl3.AutoSize = True
-        Me.Lbl3.Font = New System.Drawing.Font("Microsoft Sans Serif", 26.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Lbl3.Location = New System.Drawing.Point(776, 651)
-        Me.Lbl3.Name = "Lbl3"
-        Me.Lbl3.Size = New System.Drawing.Size(341, 39)
-        Me.Lbl3.TabIndex = 5
-        Me.Lbl3.Text = "Tienes un Negocio?"
+        Me.Lbl2.Text = "Quieres Emprender? o Ya eres Emprendedor?"
         '
         'Btn1
         '
-        Me.Btn1.Location = New System.Drawing.Point(247, 838)
+        Me.Btn1.Location = New System.Drawing.Point(631, 852)
         Me.Btn1.Name = "Btn1"
         Me.Btn1.Size = New System.Drawing.Size(75, 40)
         Me.Btn1.TabIndex = 6
         Me.Btn1.Text = "Ingresa Aqui"
         Me.Btn1.UseVisualStyleBackColor = True
         '
-        'Btn2
-        '
-        Me.Btn2.Location = New System.Drawing.Point(923, 838)
-        Me.Btn2.Name = "Btn2"
-        Me.Btn2.Size = New System.Drawing.Size(75, 40)
-        Me.Btn2.TabIndex = 7
-        Me.Btn2.Text = "Ingresa Aqui"
-        Me.Btn2.UseVisualStyleBackColor = True
-        '
         'PictureBox3
         '
         Me.PictureBox3.Image = CType(resources.GetObject("PictureBox3.Image"), System.Drawing.Image)
-        Me.PictureBox3.Location = New System.Drawing.Point(149, 693)
+        Me.PictureBox3.Location = New System.Drawing.Point(352, 693)
         Me.PictureBox3.Name = "PictureBox3"
         Me.PictureBox3.Size = New System.Drawing.Size(274, 139)
         Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -134,7 +113,7 @@ Partial Class Form1
         'PictureBox4
         '
         Me.PictureBox4.Image = CType(resources.GetObject("PictureBox4.Image"), System.Drawing.Image)
-        Me.PictureBox4.Location = New System.Drawing.Point(808, 693)
+        Me.PictureBox4.Location = New System.Drawing.Point(710, 693)
         Me.PictureBox4.Name = "PictureBox4"
         Me.PictureBox4.Size = New System.Drawing.Size(274, 139)
         Me.PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -180,9 +159,7 @@ Partial Class Form1
         Me.Controls.Add(Me.PictureBox5)
         Me.Controls.Add(Me.PictureBox4)
         Me.Controls.Add(Me.PictureBox3)
-        Me.Controls.Add(Me.Btn2)
         Me.Controls.Add(Me.Btn1)
-        Me.Controls.Add(Me.Lbl3)
         Me.Controls.Add(Me.Lbl2)
         Me.Controls.Add(Me.Lbl1)
         Me.Controls.Add(Me.AxWindowsMediaPlayer1)
@@ -207,9 +184,7 @@ Partial Class Form1
     Friend WithEvents AxWindowsMediaPlayer1 As AxWMPLib.AxWindowsMediaPlayer
     Friend WithEvents Lbl1 As Label
     Friend WithEvents Lbl2 As Label
-    Friend WithEvents Lbl3 As Label
     Friend WithEvents Btn1 As Button
-    Friend WithEvents Btn2 As Button
     Friend WithEvents PictureBox3 As PictureBox
     Friend WithEvents PictureBox4 As PictureBox
     Friend WithEvents PictureBox5 As PictureBox
