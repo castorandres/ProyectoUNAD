@@ -28,6 +28,7 @@
             Me.Close()
         Else Button2.Visible = False
             Tuberia4.Show()
+            Tuberia4.Button1.Visible = False
             Me.Close()
         End If
     End Sub
